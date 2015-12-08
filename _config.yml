@@ -1,0 +1,10 @@
+#
+# This config-file is only needed for development.
+
+port: 8000
+
+exclude:
+ - Makefile
+ - .gitignore
+ - Gemfile
+ - Gemfile.lock
